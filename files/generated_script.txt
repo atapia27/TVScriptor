@@ -1,0 +1,313 @@
+Text generated from The Office script
+
+corpus length: 479620
+total chars: 84
+nb sequences: 159860
+Vectorization...
+Build model...
+2023-02-16 14:11:11.781952: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX AVX2
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+
+2023-02-16 14:12:03.196721: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX AVX2
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+--------------------------------------------------
+Iteration 1
+1249/1249 [==============================] - 126s 97ms/step - loss: 1.9933
+
+----- diversity: 0.3
+
+----- Generating with seed: "Kevin: That sucks so much.
+Guy: It total"
+Kevin: That sucks so much.
+Guy: It totall to suest to with to to to to to to be to to be do to to to to to to to to to to to to to tell to to to be to we was whing about I was the was work to to be a to to to to to so like to to to to to to to be to to to to to be to to be to the be sure to be to me to to to to to to be for there to to to to to do no worked to to to to to to to to to to to to be to to to to to the a to to to to to to to
+
+--------------------------------------------------
+Iteration 2
+1249/1249 [==============================] - 105s 84ms/step - loss: 1.5834
+
+----- diversity: 0.3
+
+----- Generating with seed: "Michael: God! No, no, no, no. No inconve"
+Michael: God! No, no, no, no. No inconvere. I think that work of the want to see you want to can the could tell the the stoll the stopen that a lot of the better the stort of the cound the because should you want to the party the better a surper of the because you are the cout. I did it a sorry a something a lot to the party a love the parta to the seate of the started a lot a lot something a lot of me the because you got the party the 
+
+--------------------------------------------------
+Iteration 3
+1249/1249 [==============================] - 110s 88ms/step - loss: 1.4718
+
+----- diversity: 0.3
+
+----- Generating with seed: "Michael: Oh, no, no. No false modesty, m"
+Michael: Oh, no, no. No false modesty, my doness. Pam. I don't know what? I don't know what? I don't know what? I don't know what? I don't know what? I don't know what? I
+ do the to the over time the self.
+Michael: Ok, I don't know what? I don't know the the borthday.
+Michael: Oh, my how the stall the the way the sees in the way.
+Michael: So I guess the head the the the the person find the here to the party a come the deal a boss here to
+
+--------------------------------------------------
+Iteration 4
+1249/1249 [==============================] - 108s 87ms/step - loss: 1.4092
+
+----- diversity: 0.3
+
+----- Generating with seed: "Dwight: Who? Dave Barry?
+Kelly: [laughin"
+Dwight: Who? Dave Barry?
+Kelly: [laughing] I don't have to be the thing and the people at the late the people and I am down.
+Michael: I don't have and that was a little the people because I was a come of the people and I have a little seconder in the pooking at the card and it would be so you a
+ little a good to and that would be a perford.
+Michael: Oh, I don't have to count of me to do that I was a speciped to be a little and desk is th
+
+--------------------------------------------------
+Iteration 5
+1249/1249 [==============================] - 82s 66ms/step - loss: 1.3657
+
+----- diversity: 0.3
+
+----- Generating with seed: "Jim: [on phone] Hey, Brenda. This is, uh"
+Jim: [on phone] Hey, Brenda. This is, uh, the comples to the romer and the fample and I am a bumpries to me see your for beer, I think the warnand is the promise. I got to you all go an in the fine. I am the coming a lot of the fine them.
+Michael: What? What is a little back. There is a second and I have a lot of you things to sering on the cool. And I was going to be the really some on the cards and I was
+ that they would stay thing to 
+
+--------------------------------------------------
+Iteration 6
+1249/1249 [==============================] - 114s 91ms/step - loss: 1.3356
+
+----- diversity: 0.3
+
+----- Generating with seed: "Michael: Yeah, I sh*t a bunch of footage"
+Michael: Yeah, I sh*t a bunch of footage a given to take you a little sales with the corporate to see you an idea. I don't know what is the corporate to meet of the card.
+ I don't know. I can tell me the surprise.
+Michael: Okay, I don't know. I can take to so I was like to the ention out of the problem the problem the said.
+Jim: No. I have a look at the montally now I got to sure the concorded to the sale to the armant to see it with tha
+
+--------------------------------------------------
+Iteration 7
+1249/1249 [==============================] - 139s 111ms/step - loss: 1.3117
+
+----- diversity: 0.3
+
+----- Generating with seed: "Jim: Fair enough, but I like Flonkerton."
+Jim: Fair enough, but I like Flonkerton.
+Michael: I can't be the things a person to be the conference the conference done the things that I have to be the ladically never one of the part of the paper and my comporace the part of the way I don't have a per the big branch of me something. I don't have a person don't have to be the part of the compotion is the back a first to the paper to her it so the start the the for me.
+Jim: I don't ha
+
+--------------------------------------------------
+Iteration 8
+1249/1249 [==============================] - 128s 103ms/step - loss: 1.2922
+
+----- diversity: 0.3
+
+----- Generating with seed: "Dwight: I don't even know what to say.
+M"
+Dwight: I don't even know what to say.
+Michael: Not a lot of the party all the talking about the like the Santa. I don't know what? What does the really movie and the prosent. And that would be the girl and the paper and the problem on the party and there is a new all about a little party a person thing about the thing about the people want to me serious. And I want to be a second. I don't know what? I don't know what? I don't know what
+
+--------------------------------------------------
+Iteration 9
+1249/1249 [==============================] - 145s 116ms/step - loss: 1.2774
+
+----- diversity: 0.3
+
+----- Generating with seed: "Dwight: Call you immediately. Good. Oh, "
+Dwight: Call you immediately. Good. Oh, no, you wanted to go for that you say there. I am going to get the fact the things are a good with that there and there's going to
+ do it the card. I have to the conference to the good for the problem a new a second a lot of the day. I be a birthday. I want to go to the card my foot. I think you're a
+ going to the the card. I don't know what you want to get this three that cards. I don't know. I hav
+
+--------------------------------------------------
+Iteration 10
+1249/1249 [==============================] - 159s 128ms/step - loss: 1.2627
+
+----- diversity: 0.3
+
+----- Generating with seed: "Dwight: God... Damn it! Why us?
+Jim: Bec"
+Dwight: God... Damn it! Why us?
+Jim: Because I know that they are the neckeds.
+Jim: And the can getting a not show that you know it's a serodle and they need to be good. Oh, all right, we're going to talk to you a county.
+Michael: Okay. What is the real the corneard.
+Michael: What is the things that they are the real to the the planng and the corporate the corporate the personal in the books at me this good birthday. It was a person and
+
+--------------------------------------------------
+Iteration 11
+1249/1249 [==============================] - 174s 139ms/step - loss: 1.2510
+
+----- diversity: 0.3
+
+----- Generating with seed: "Michael: Well, Toby, I went all-in on th"
+Michael: Well, Toby, I went all-in on the pretty down it works in the point to the posters and the been something about the count, I'm not a sheaked it in the people the company man.
+Michael: Oh, no, I havened the beep the party office.
+Dwight: That was all the gees to be a prettient of my minder here is the beep an the problem the been a birthday.
+Pam: Oh, hey, we're going to get to think about the problem and the count and and it was 
+
+--------------------------------------------------
+Iteration 12
+1249/1249 [==============================] - 197s 158ms/step - loss: 1.2411
+
+----- diversity: 0.3
+
+----- Generating with seed: "Jim: [hands expense report to Oscar] Her"
+Jim: [hands expense report to Oscar] Here we go to the problems. Because you know what the could so you know what you know what you can be a real badd with the real bady with the birthday. So you know what I was a good back because I was a good at the completer and and the party back around the back going to be checked back who good because you know what the problem with a looking and the cool and don't go to be anything about the probl
+
+--------------------------------------------------
+Iteration 13
+1249/1249 [==============================] - 199s 159ms/step - loss: 1.2324
+
+----- diversity: 0.3
+
+----- Generating with seed: "Dwight: And my middle name is 'Kurt', no"
+Dwight: And my middle name is 'Kurt', not at the real bore that is an accepting.
+Dwight: I want to get to see it and then you want to be the contoning in the party paper superice. But he's not so you can go. I don't think you got to take your back.
+Michael: Oh, yeah, I don't have to get to be gonna as a red of the top that we are not be the second.
+Michael: Oh, yeah.
+Dwight: I don't have to do it.
+Michael: I want to be me.
+Michael: I wa
+
+--------------------------------------------------
+Iteration 14
+1249/1249 [==============================] - 288s 231ms/step - loss: 1.2240
+
+----- diversity: 0.3
+
+----- Generating with seed: "Dwight: No, Pam, Just. Just, [tilts head"
+Dwight: No, Pam, Just. Just, [tilts head] Oh my God!
+Michael: And I was a little fun. It's not really a really doing?
+Jim: Oh my God, I am not to be going to take the the secret in the conternion. I don't know what the party say and I was going to be a little around a little for the real
+ the cards.
+Michael: Well, I don't know what the problem the from the time because you want to be the back to the end of the tree the conter.
+Michael: I
+
+--------------------------------------------------
+Iteration 15
+1249/1249 [==============================] - 385s 308ms/step - loss: 1.2164
+
+----- diversity: 0.3
+
+----- Generating with seed: "Dwight: Forget about retiring when you'r"
+Dwight: Forget about retiring when you're to the back on. I have to see you to take the takes of the say there.
+Dwight: I can't get to take the the back of the thing about the health girl. Yeah, you know what? I can't do the takes here.
+Michael: Yeah.
+Michael: Oh, no, no, no, no, no, no, no, no. I don't know what? I have to be a looking the thing about.
+Michael: I mean, I was thinking at the plan back have been the look at the booter of
+
+--------------------------------------------------
+Iteration 16
+1249/1249 [==============================] - 390s 312ms/step - loss: 1.2102
+
+----- diversity: 0.3
+
+----- Generating with seed: "Jim: Assistant to the Sensei, that's pre"
+Jim: Assistant to the Sensei, that's pretty good. That was the trued to say the big brangage at the party who experting the party breaking to the party to the company and
+ this is the party and the back to get that I don't have to the works that we are going to get me to talk to you a told it to the back on a pretting the problems. I think
+ the supponeds of the party something at the party of the like the month of my doing to be the offic
+
+--------------------------------------------------
+Iteration 17
+1249/1249 [==============================] - 448s 359ms/step - loss: 1.2047
+
+----- diversity: 0.3
+
+----- Generating with seed: "Dwight: That's my stopwatch.
+Jim: [hands"
+Dwight: That's my stopwatch.
+Jim: [hands up to sees up and the parking to she would be complet of the birthday of the conference room. And I am going to want to take your last the office. I don't know what I can take that all of the party all the concerting and the one thank the contermit.
+Michael: Yeah, I can to do a conderseation are a lot. Don't like to get and the considary and two the phone.
+Michael: Oh, yeah, what I don't know the
+
+--------------------------------------------------
+Iteration 18
+1249/1249 [==============================] - 389s 311ms/step - loss: 1.1963
+
+----- diversity: 0.3
+
+----- Generating with seed: "Roy: Why?
+Michael: Brangelina is the Bra"
+Roy: Why?
+Michael: Brangelina is the Brandmit. And that was the party supposes a second. It's here? I don't know. It's a little things that I think that was a back to the real about the party that the completting of the contocest, but I don't know. It is a look at the conternication of the party to me from the paper of the card. And I don't know. It's not a lot of the day of the reas something about the party because I don't know what I
+
+--------------------------------------------------
+Iteration 19
+1249/1249 [==============================] - 447s 358ms/step - loss: 1.1914
+
+----- diversity: 0.3
+
+----- Generating with seed: "Pam: No. [laughs]
+Jim: Oh.
+Pam: Almost.
+"
+Pam: No. [laughs]
+Jim: Oh.
+Pam: Almost.
+Michael: Well, I want to sell there.
+Michael: I don't think that was award the corder. I think to the conference room.
+Pam: Oh, come on. It's not a second.
+Michael: Okay, I talk to you to take the sentt to the conserible. I think that was a good performan that they would be a great best the conference rest for the conference
+ to me the corder to the county to the phone to the conferentine's the per
+
+--------------------------------------------------
+Iteration 20
+1249/1249 [==============================] - 452s 362ms/step - loss: 1.1849
+
+----- diversity: 0.3
+
+----- Generating with seed: "Dwight: What are you doing? Those are my"
+Dwight: What are you doing? Those are my friends someone works in the contact of the thing that was a bottle about the bord the thing are not my friends.
+Michael: Okay, well, I was a second on the bother of my drink?
+Michael: Okay. That was a groustand Michael and then you are it and then I was a speciate the fire of the cares. I don't have the bother beerstand.
+Michael: Oh, I think that was a fire of the still be the carples.
+Michael: 
+
+--------------------------------------------------
+Iteration 21
+1249/1249 [==============================] - 517s 414ms/step - loss: 1.1820
+
+----- diversity: 0.3
+
+----- Generating with seed: "Dealer: Flip them.
+Michael: You really s"
+Dealer: Flip them.
+Michael: You really should not and you would have a good part to the card. That's a little things. I don't have a tool cold an ince the part to the compried. [clapping and the day.
+Pam: I don't know.
+Michael: Yeah, uh, this is a second of me and they can be the real about the compares.
+Michael: Oh, hey, uh, what I moved it to be anyone.
+Michael: That was a point and then I was a scits of Michael takes hands and so I w
+
+--------------------------------------------------
+Iteration 22
+1249/1249 [==============================] - 514s 412ms/step - loss: 1.1757
+
+----- diversity: 0.3
+
+----- Generating with seed: "Dwight: First present, Oscar.
+Oscar: [ri"
+Dwight: First present, Oscar.
+Oscar: [right to the confererring] What is the receptionist.
+Jim: Yeah, I think you are going to be the first year, you know what? I am a good branch of the receptionis. I will be the office, and I would have something the big stand of the takes here to go to do the back branch of the company of the conterchinating out the office.
+Dwight: We are going to say I will be the receptionion of the really because 
+
+--------------------------------------------------
+Iteration 23
+1249/1249 [==============================] - 465s 372ms/step - loss: 1.1725
+
+----- diversity: 0.3
+
+----- Generating with seed: "Michael: Oh, [taking it to heart] lazy. "
+Michael: Oh, [taking it to heart] lazy. I won't stay and I don't know.
+Ryan: Ok, I just want to see you the talked the back at the seats of here all bet me when I was a little the complaint. Okay, I was a birthday of the it works because you
+ want to be the sent of the seats and I don't know what I don't have a little find of the complete the big assed the seats of manager. So you want to be a really sorry.
+Michael: I don't know. I want 
+
+--------------------------------------------------
+Iteration 24
+1249/1249 [==============================] - 474s 380ms/step - loss: 1.1693
+
+----- diversity: 0.3
+
+----- Generating with seed: "Ryan: Uh, hanging out with some friends,"
+Ryan: Uh, hanging out with some friends, and they are the person around of the conternity.
+Michael: [sings around the thing at the wher in a person around the complaines a bott. And they are the seats and they would be a lot of her of the parties.
+Michael: Okay, here it is a bump to the fore the contoner. The harge a lot of the conterrith start the contact of the leaver. That's a thing and they are a good busy of the corporace and they 
+
+--------------------------------------------------
+Iteration 25
+ 346/1249 [=======>......................] - ETA: 5:55 - loss: 1.1287

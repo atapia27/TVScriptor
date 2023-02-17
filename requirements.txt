@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+tensorflow
+random
+sys
+io
+streamlit

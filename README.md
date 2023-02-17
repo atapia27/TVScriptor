@@ -12,3 +12,6 @@ In this code, the diversity value is a hyperparameter used in the text generatio
 Vectorization is the process of converting data into a numerical form that can be processed by a machine learning model. In the context of this code, the input data is a sequence of characters and the output data is a single character. These data are represented as arrays of boolean values, where each position in the array corresponds to a unique character in the text.
 
 The input data is stored in a 3D numpy array called x, and the output data is stored in a 2D numpy array called y. The array x has dimensions (len(sentences), maxlen, len(chars)), where len(sentences) is the number of sequences, maxlen is the length of each sequence, and len(chars) is the number of unique characters in the text. The array y has dimensions (len(sentences), len(chars)), where len(sentences) is the number of sequences and len(chars) is the number of unique characters in the text.
+
+Sample Output:
+
